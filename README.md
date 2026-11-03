@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hola, soy Milagros 👋
 
-<!--
-**9919-Mili/9919-Mili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Programación de Sistemas (UCES)** con experiencia en **Soporte técnico IT**: diagnóstico y resolución de incidencias de hardware y software, instalación de software y atención a usuarios.
 
-Here are some ideas to get you started:
+🔎 Busco oportunidades **remotas** en Soporte IT / Help Desk.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías
+C# · Java · JavaScript · HTML · CSS · SQL / SQL Server · Git · GitHub · Figma · UML
+
+### 📂 Proyectos destacados
+- **[Transporte Público Lobos](https://github.com/9919-Mili/Transporte-Publico)**: Sitio web informativo sobre transporte publico de Lobos, horarios por línea y mapa interactivo de paradas (HTML, CSS, JavaScript, Leaflet).
+
+### 📫 Contacto
+milima9919@gmail.com · [LinkedIn](www.linkedin.com/in/milagros-araujo-110918217)
